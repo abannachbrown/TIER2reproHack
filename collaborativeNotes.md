@@ -4,80 +4,95 @@ TIER2 ReproHack Collaborative Hackpad
 ###### tags: `Reprohack` `hackpad`
 
 :::info
-- :earth_africa: **LOCATION**: Vienna, Austria
-- :calendar: **DATE**: 30th June 2024
-- :watch: **09:45 - 17:00 CEST**
-- :arrow_forward: **Slides:** SLIDE_URL
+- :earth_africa: **Location**: Vienna, Austria
+- :calendar: **Date**: 30th June 2024
+- :watch: **09:45 - 17:15 CEST**
+- :arrow_forward: **Slides:** [Slides on HackMD](https://hackmd.io/@5qnA2_8tQ6i5tWuiy9xbAg/S1ns-QuLR)
 - :scroll: **Participant Guidelines:** https://reprohack.org/participant_guidelines
 - :purple_heart: **Code of Conduct:** https://reprohack.org/code-of-conduct
-- :left_speech_bubble: Chat to us on Slack: https://reprohack-autoinvite.herokuapp.com/
-- **hackmd docs:** https://hackmd.io/s/features
+- :left_speech_bubble: **Chat on Zulip**:
+https://tier2-reprohack.zulipchat.com/ 
+- **New to HackMD? Check out the features:** https://hackmd.io/s/features
+
 
 ***
 
 ## Participants:
-**Please sign in below:**
-- ***Jane Doe (pronouns/ Affiliation / twitter / etc)***
-- 
+> **Please sign in below:**
+- ***full name*** (pronouns/ Affiliation / social media handle)
+
+- ***Friederike Kohrs*** (she/her, BIH QUEST Center for Responsible Research, https://www.linkedin.com/in/friederike-kohrs-490b191a5/)
+-  
 - 
 - 
 -
 
-<! ---  DELETE THE FOLLOWING SECTION IF PARTICIPANTS NOT RENAMING BREAKOUT ROOMS --->
+
 
 ---
 
-# Icebreaker Room Names
-- **Group 1:** 
-- **Group 2:** 
-- **Group 3:**  
-- **Group 4:** 
-- **Group 5:** 
-- **Group 6:**  
-- **Group 7:**
-- **Group 8:**
-- **Group 9:**
-- **Group 10:**
+# Team Names
+>Group yourselves into teams based on the paper you are trying to reproduce.  
+*Please note*: Each team should create a new channel for communication on Zulip.
+- **Team 1:** 
+- **Team 2:** 
+- **Team 3:**
+- **Team 4:** 
+- **Team 5:** 
+- **Team 6:**
+
 
 :::
 
+# Papers for Selection
+
+>These represent a selection of papers suggested by participants and us. 
+::: success
+Author, Title, doi  
+**Comments**  
+**Tags**
+
+Author, Title, doi  
+**Comments**  
+**Tags**
+
+Author, Title, doi  
+**Comments**  
+**Tags**
+:::
 
 
 # Paper Registration
 
-_Use the following template and register your review below._
-
-```
-### **Paper:** <Title of the paper reproduced>
-**Reviewers:** Reviewer 1, Reviewer 2 etc.
-***
-```
-<!-- Please register your paper in the space below using the template provided -->
+>Use the following template and register your reproducibility efforts below:
 
 
-***
-# Questions for Speaker(s)
-<!-- Please add any questions for our speaker below -->
-
+**Paper:** Title of the paper reproduced  
+**Team members:** Reviewer 1, Reviewer 2 etc.
+    
+ -
+ -
+ -
+ 
+ 
+</br>
 
 
 ***
 
-# Discussion topics
+# Regrouping and 1st round of feedback 
+>Please add any notes here for discussion.
 
-<!-- Feel free to use this space to add topics for discussion and make notes on those discussions. You can remove if you don't plan to have any guided discussion sessions -->
+-
+-
+-
 
-
-
-***
-
-# Regroup notes 
-<!-- Any other notes you'd like to add. -->
-
+</br>
 
 ***
 
-# Feedback
+# Regrouping and final round of feedback at the end
+>Please provide feedback below
 
 ### One thing you enjoyed:
 
@@ -92,3 +107,15 @@ _Use the following template and register your review below._
 - 
 - 
 -
+
+
+### Any other feedback?
+-
+-
+-
+
+
+
+</br>
+
+# :+1: Thank you for joining us!!
