@@ -1,20 +1,22 @@
 ---
-title: <your-event-name> ReproHack slides
+title: TIER ReproHack slides
 tags: ReproHack, introduction, slides
 description: View the slide with "Slide Mode".
 slideOptions:
     theme: white
 ---
 
-## Welcome to the <your-event-name> ReproHack!
+## Welcome to the TIER2 ReproHack!
 
 <br>
 
-<!-- Put the link to the event page here so people can access all materials -->
-### Event Page: 
-### http://reprohack.org/event/<your-event-id>
+### Event Page: https://osf.io/u5gjh/
+This Open Science Framework folder contains links to materials and notebooks for this ReproHack.
 
-Contains all event information and links to materials
+For more info and today's schedule, check:
+https://tier2-project.eu/events/tier2-reproducibility-hackathon-fens-forum-2024
+
+
 
 ---
 
@@ -25,7 +27,8 @@ an introduction to the platform here -->
 
 - No Fire Alarm test today
 - Toilets & Fire Exit
-- Water point - downstairs
+- Refreshnment
+- Code of Conduct
 
 ---
 
@@ -36,41 +39,62 @@ go around the room and introduce themselves too. If online, consider using break
 
 ---
 
-<!-- Add details about yourself the organiser in the next few slides: -->
-
 ## Who am I?
 
-### Dr Anna Krystalli (@annakrystalli)
+### Dr Alex Bannach-Brown
 
-- Research Software Engineer _University of Sheffield_
-- 2019 Fellow _Software Sustainability Institute_
-- Software Peer Review Editor _rOpenSci_ 
-- Core Team member: _ReproHack_
+- Research Methodologist _Berlin Institute of Health at Charité_
+    - Build tools and software for evaluating and synthesising evidence in biomedicin 
+- Product Owner _www.SyRF.org.uk_ 
+- Core Team member: _SOLES: Systematic Online Living Evidence Summaries in R_
 
 ---
 
 ## Why am I here?
 
-<!-- Edit with your own answer -->
+Why should we care about open science and Reproducibility?
 
-> I believe there's lots to learn about Reproducibility from working with real published projects.
+:::info
+Quest for truth & trust in science. 
+:::
+<img src="https://hackmd.io/_uploads/Bkg2XLnUA.png" alt="quest for truth" width="300"/>
+
 
 ---
 
 ## Who is my favorite animated character?
 
-<!-- Edit with your own answer -->
+Minions! (& fries)
 
-Stitch!
-
-![](https://media3.giphy.com/media/95MU6SEzeLnUc/giphy.gif?cid=790b76115d11033236595055776d483b&rid=giphy.gif)
-
-<!-- Let the rest of the organisers do the same -->
-
-
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFsYmV0aXAzMTRqYTVoazBvbGVjYjM2YTd3azFsencwNHAzM21oYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bNCvnuel7vJAY/giphy.webp)
 
 ---
 
+---
+## Who am I?
+
+### Dr Friederike Kohrs
+
+
+- Community Engagement Manager _Berlin Institute of Health at Charité_ 
+    - supporting projects by helping to build and grow communities
+- Science communication enthusiast
+    - former member of Pint of Science Berlin and Girls Day organizer
+
+---
+
+# Why am I here? 
+
+- To facilitate efforts in Open Science and Reproducibility and support those who are invested in fostering good science
+
+---
+
+---
+## Who is my favorite animated character?
+
+![](https://media3.giphy.com/media/6LxGaLrEdGNHi/giphy.gif?cid=c623cb3516pznpgukmjcaef8tvlfptf0cawfwg39fidcpm58&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+---
 
 <!-- Open it up to participants -->
 - ### Who are you?
@@ -79,9 +103,6 @@ Stitch!
 
 - ### Who is your favorite animated character?
 
-<!-- Delete below if participants NOT renaming breakout rooms -->
-
-- #### As a group: Name your room! :mountain: :camping: :desert::roller_coaster::national_park::stadium::desert_island::sunrise::Tokyo_tower:
 
 
 ---
@@ -92,11 +113,11 @@ Stitch!
 
 ## ReproHack Objectives
 
-1. **Practical Experience in Reproducibility**
+1. **Practical experience in Reproducibility**
 
-3. **Feedback to Authors**
+3. **Improve the way research is conducted**
 
-5. **Think more broadly about opportunities and challenges**
+5. **Opportunities and challenges for reproducible research**
 
 ---
 
@@ -106,11 +127,11 @@ Stitch!
 
 ### Reproduce paper
 
-1. **Paper review and team formation**
+1. **Paper selection and team formation in Zulip**
 
 2. **Select and register your paper on hackpad**
 
-3. **Work on your paper!**
+3. **Work on reproducing the paper!**
 
 4. **Re-group part-way through.**
 
@@ -138,10 +159,11 @@ Event governed by [**ReproHack Code of Conduct**](https://reprohack.org/code-of-
 
 ---
 
-## Thank you Authors! :raised_hands:
+## Thank you Authors! 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9uNnI0enEyazlyOW8ybmU0YzB6YWZwbHowamRjYmxvM2F5enl2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FPDZV2JGkNGeUZdi7G/giphy.webp" alt="quest for truth" width="200"/>
 
 - #### Without them there would be no ReproHack.
-- #### Show gratitude and appreciation for their effort and bravery. :pray: 
+- #### Show gratitude and appreciation for their efforts.
 - #### Constructive criticism only please!
 
 
@@ -149,22 +171,18 @@ Event governed by [**ReproHack Code of Conduct**](https://reprohack.org/code-of-
 
 # Reproduce and Review
 
-# :mag:
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWF6azN4NzQzYzZ4Ynp2YW54ZnE2aXd2dWtsOXd0eXF5ODQ5MTV1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9E40ePI5P22Wngf4mA/giphy.webp" alt="quest for truth" width="400"/>
 
 ---
 
 ## Selecting Papers
 
-- **Author comments:** paper description and why you should choose to reproduce.
-- **Tags:** Tools, languages & domains
-- **No. attempts:** No. times reproduction has been attempted
-- **Mean Repro Score:** Mean reproducibility score (out of 10)
-    - lower == harder!
-
+- **Comments on Papers:** paper description and why you choose to reproduce.
+- **Tags:** Tools, languages & research domains
 
 ---
 
-## Review as an auditor :bookmark_tabs:
+## Review as an auditor
 
 ### Looking for FAIR principles
 
@@ -206,7 +224,7 @@ Was there adequate documentation describing:
 
 ## Analysis
 
-- Were you able to fully reproduce the paper? :white_check_mark:
+- Were you able to fully reproduce the paper? 
 - How automated was the process of reproducing the paper?
 - How easy was it to link analysis code to:
 - the plots it generates
@@ -216,14 +234,14 @@ Was there adequate documentation describing:
 
 ## Analysis
 
-### If the analysis was not fully reproducible :no_entry_sign:
+### If the analysis was not fully reproducible 
 - Did results (e.g. model outputs, tables, figures) differ to those published? By how much?
 - Were missing dependencies?
 - Was the computational environment not adequately described / captured?
 
 ---
 
-## Review as a user :video_game:
+## Review as a user
 
 <br>
 
@@ -286,8 +304,7 @@ Was there adequate documentation describing:
 ## 2. Project registration
 
 + Register your team and paper on the **hackpad**
-+ Register for an account on the Hub.
-+ Feel free to work here or in break-out rooms.
++ Connect with .
 
 ---
 
