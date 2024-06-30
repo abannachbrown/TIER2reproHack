@@ -20,8 +20,7 @@ https://tier2-project.eu/events/tier2-reproducibility-hackathon-fens-forum-2024
 
 ---
 
-<!-- Add any housekeeping details here. If running an online event, you might want to include 
-an introduction to the platform here -->
+<!-- Add any housekeeping details here. If running an online event, you might want to include an introduction to the platform here -->
 
 ### House Keeping:
 
@@ -121,6 +120,13 @@ Minions! (& fries)
 
 ---
 
+## Lightning Talks by Speakers 
+
+- Emma Wilson
+- Dr Anna Krystalli
+
+---
+
 # Plan of Action
 
 ---
@@ -216,7 +222,7 @@ Event governed by [**ReproHack Code of Conduct**](https://reprohack.org/code-of-
 ## Documentation
 
 Was there adequate documentation describing:
-- how to install necessary software including non-standard dependencies?
+- how to install necessary data/analysis/software?
 - how to use materials to reproduce the paper?
 - how to cite the materials, ideally in a form that can be copy and pasted?
 
@@ -227,8 +233,8 @@ Was there adequate documentation describing:
 - Were you able to fully reproduce the paper? 
 - How automated was the process of reproducing the paper?
 - How easy was it to link analysis code to:
-- the plots it generates
-- sections in the manuscript in which it is described
+    - the plots it generates
+    - sections in the manuscript in which it is described
 
 ---
 
@@ -241,25 +247,12 @@ Was there adequate documentation describing:
 
 ---
 
-## Review as a user
 
-<br>
-
-#### What did you find easy / intuitive?
-
-
-
-#### What did you find confusing / difficult
-
-
-
-#### What did you enjoy?
-
----
 
 # Feed back
 
-# :speech_balloon:
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2h4MzJ5bjF0bWxzeWtkdmdnbHQ1eGltenBobWw2OTBpNHB1ODNkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hkd41kiT9Zd0AwqVNW/giphy.webp" alt="quest for truth" width="400"/>
 
 ---
 
@@ -268,11 +261,11 @@ Was there adequate documentation describing:
 
 <br>
 
-#### Acknowledge author effort
+- Acknowledge author effort
 
-#### Give feedback in good faith
+- Give feedback in good faith
 
-#### Focus on community benefits and system level solutions
+- Focus on community benefits and system level solutions
 
 ---
 
@@ -289,7 +282,11 @@ Was there adequate documentation describing:
 
 ---
 
-# Let's go! :checkered_flag:
+# Let's go! 
+
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWp0Ymw1b2tnbTJqODRtazhnY2VjeXJsdWR5bzc2N2FiYXkwa3lkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xrP3yQ0W19SGuguEd8/giphy.webp" alt="quest for truth" width="600"/>
+
 
 ---
 
@@ -304,13 +301,12 @@ Was there adequate documentation describing:
 ## 2. Project registration
 
 + Register your team and paper on the **hackpad**
-+ Connect with .
++ Connect with people who want to work on the same paper.
 
 ---
 
 ## 3. Reproduce Paper
 
-- Inspect the review form.
 - Try to reproduce the paper using the materials provided.
 - Record your responses to review questions according to your experiences.
 
@@ -336,30 +332,19 @@ Was there adequate documentation describing:
 
 - So, how did you get on? 
 - Final comments.
-- If there's time, tackle some discussion topics (see hackpad).
-- On post-its: One thing you liked, one thing that can be improved.
+- On hackMD: One thing you liked, one thing that can be improved.
 
 ---
 
 # Get involved!
 
-### Visit ReproHack Hub <https://reprohack.org>
+- Visit ReproHack Hub for reproducibility resources and future events <https://reprohack.org>
 
-- [**Submit a paper for review**](https://reprohack.org/paper/new/)
-- [**Organise your own event**](https://reprohack.org/event/new/)
+- Check out the TIER2 website for opcoming Reproducibility Events <https://tier2-project.eu>
 
-_Check out our [Resources](https://reprohack.org/resources) for more details_
-
-### Chat to us:
-
-[![Slack](https://img.shields.io/badge/slack-join%20us-orange?style=for-the-badge&logo=slack)](https://reprohack-autoinvite.herokuapp.com/)
 
 ---
 
-# THANK YOU ALL! :pray:
+# THANK YOU ALL!
 
-- #### Thank you PARTICIPANTS for coming!
-- #### Thank you AUTHORS for submitting!
-- #### Thanks to <any-sponsors> for sponsoring!
-
-# :wave:
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXk1c25tbGo5dzRmYWx3MTNlbjNtZm82ampqOTQycnJ2aDU4aWZociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7WICht89LQdQZa2A/giphy.webp" alt="quest for truth" width="700"/>
